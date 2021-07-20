@@ -34,3 +34,6 @@ So, you need java on the box (tested with 1.8) and you need a UIM Robot on the b
 Default imap port is used (993), Tested against gmail.
 
 Disclaimer: Not my work.
+
+Download:
+https://drive.google.com/drive/folders/1bU4XE44MDVS1iipP2MFE_NyLhk-gNsVY?usp=sharing
